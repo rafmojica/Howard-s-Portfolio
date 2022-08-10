@@ -404,4 +404,21 @@ footer {
     .about-me__info--para {
         font-size: 12px;
     }
+    
+    .row {
+        padding: 0 30px;
+    }
+
+    .language__img {
+        width: 100%;
+        max-width: 85px;
+    }
+
+    .language__name {
+        font-size: 18px;
+    }
+
+    .footer__row {
+        padding: 40px 0;
+    }
 }
